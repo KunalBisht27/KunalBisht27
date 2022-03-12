@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KunalBisht27.
-- 👀 I’m interested in coding, although I'm a beginner.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m a Software Engineering Student.
 - 📫 You can reach me at bisht.kunal2001@gmail.com.
 - 🤝 All sorts of helps/advices are appritiated!
